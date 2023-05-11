@@ -1,0 +1,8 @@
+  10/05/2023 12:19:11: iniciando composição “Text 02”.
+
+  Saída para: K:\Meu Drive\mmlg\mmlg Simple Logo Animation (convertido).avi    10/05/2023 12:19:15: composição concluída “Text 02”.
+
+
+  Tempo total decorrido: 3 segundos
+Log fechado em 10/05/2023 às 12:19:15
+
